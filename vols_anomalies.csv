@@ -1,0 +1,403 @@
+Date,Statut,Aeroport_Depart,Code_IATA_Depart,Retard_Depart,Aeroport_Arrivee,Code_IATA_Arrivee,Retard_Arrivee,Compagnie,Numero_Vol,Code_IATA_Vol,Anomalie_ISO,Anomalie_DBSCAN,Anomalie_Final
+2025-03-15,2,Hobart,HBA,10,Melbourne - Tullamarine Airport,MEL,0,Qantas,1236.0,QF1236,1,0,1
+2025-03-15,2,Singapore Changi,SIN,25,Newark Liberty International,EWR,0,Singapore Airlines,22.0,SQ22,1,0,1
+2025-03-15,2,Singapore Changi,SIN,14,Civil,TRZ,0,Air India Express,681.0,IX681,1,0,1
+2025-03-15,2,Shenzhen,SZX,10,Suvarnabhumi International,BKK,0,Thai Airways International,6455.0,TG6455,1,0,1
+2025-03-15,2,Shenzhen,SZX,10,Suvarnabhumi International,BKK,0,Air China LTD,7979.0,CA7979,1,0,1
+2025-03-15,2,Mildura,MQL,1,Essendon,MEB,2,Aeromexico,314.0,AM314,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Kerikeri/Bay of Islands,KKE,0,Singapore Airlines,4388.0,SQ4388,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Kerikeri/Bay of Islands,KKE,0,Qantas,8524.0,QF8524,1,0,1
+2025-03-15,2,Sardar Vallabhbhai Patel International Airport,AMD,15,Indira Gandhi International,DEL,0,SpiceJet,1267.0,SG1267,1,0,1
+2025-03-15,2,Burnie Wynyard,BWT,2,Melbourne - Tullamarine Airport,MEL,0,Rex Regional Express,3554.0,ZL3554,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Kerikeri/Bay of Islands,KKE,0,Air New Zealand,5266.0,NZ5266,1,0,1
+2025-03-15,2,Christchurch International,CHC,6,Palmerston North,PMR,0,Air New Zealand,5178.0,NZ5178,1,0,1
+2025-03-15,2,Christchurch International,CHC,2,Auckland International,AKL,0,Jetstar,228.0,JQ228,1,0,1
+2025-03-15,2,Kuala Lumpur International Airport (klia),KUL,11,Singapore Changi,SIN,0,Scoot,451.0,TR451,1,0,1
+2025-03-15,2,Kuala Lumpur International Airport (klia),KUL,17,Chengdu Tianfu International Airport,TFU,0,Sichuan Airlines,3994.0,3U3994,1,0,1
+2025-03-15,2,Launceston,LST,2,Melbourne - Tullamarine Airport,MEL,0,Virgin Australia,1361.0,VA1361,1,0,1
+2025-03-15,2,Chu-Bu Centrair International (Central Japan International),NGO,1,Seoul (Incheon),ICN,0,Japan Airlines,6749.0,JL6749,1,0,1
+2025-03-15,2,Paraparaumu,PPQ,4,Auckland International,AKL,0,Air Chathams,643.0,CV643,1,0,1
+2025-03-15,2,Wellington International,WLG,25,Nelson,NSN,8,Air New Zealand,5315.0,NZ5315,1,0,1
+2025-03-15,2,Bacolod,BCD,16,Ninoy Aquino International,MNL,0,AirAsia,602.0,AK602,1,0,1
+2025-03-15,2,Essendon,MEB,9,Portland,PTJ,10,Aeromexico,317.0,AM317,1,0,1
+2025-03-15,2,Wellington International,WLG,5,Woodbourne Air Station,BHE,0,Air New Zealand,5725.0,NZ5725,1,0,1
+2025-03-15,2,Avalon,AVV,3,Sydney Kingsford Smith Airport,SYD,0,Jetstar,602.0,JQ602,1,0,1
+2025-03-15,2,Canberra,CBR,6,Sydney Kingsford Smith Airport,SYD,0,Virgin Australia,625.0,VA625,1,0,1
+2025-03-15,2,Canberra,CBR,6,Melbourne - Tullamarine Airport,MEL,0,Qantas,961.0,QF961,1,0,1
+2025-03-15,2,Francisco Bangoy International,DVO,13,Ninoy Aquino International,MNL,0,Cebu Pacific Air,968.0,5J968,1,0,1
+2025-03-15,2,Christchurch International,CHC,4,Auckland International,AKL,0,Air New Zealand,534.0,NZ534,1,0,1
+2025-03-15,2,Nausori,SUV,2,Nadi International,NAN,0,Fiji Airways,8.0,FJ8,1,0,1
+2025-03-15,2,Nausori,SUV,2,Nadi International,NAN,0,Singapore Airlines,6148.0,SQ6148,1,0,1
+2025-03-15,2,Hawkes Bay,NPE,13,Wellington International,WLG,1,Air New Zealand,5883.0,NZ5883,1,0,1
+2025-03-15,2,Sydney Kingsford Smith Airport,SYD,14,Brisbane International,BNE,0,Qantas,500.0,QF500,1,0,1
+2025-03-15,2,Sydney Kingsford Smith Airport,SYD,10,Melbourne - Tullamarine Airport,MEL,0,Virgin Australia,800.0,VA800,1,0,1
+2025-03-15,2,Sydney Kingsford Smith Airport,SYD,5,Melbourne - Tullamarine Airport,MEL,0,Qantas,401.0,QF401,1,0,1
+2025-03-15,2,Sydney Kingsford Smith Airport,SYD,3,Avalon,AVV,0,Jetstar,603.0,JQ603,1,0,1
+2025-03-15,2,Sydney Kingsford Smith Airport,SYD,19,Melbourne - Tullamarine Airport,MEL,0,Jetstar,501.0,JQ501,1,0,1
+2025-03-15,2,Auckland International,AKL,14,Wellington International,WLG,1,Air New Zealand,405.0,NZ405,1,0,1
+2025-03-15,2,Auckland International,AKL,14,Wellington International,WLG,1,Singapore Airlines,4438.0,SQ4438,1,0,1
+2025-03-15,2,Auckland International,AKL,14,Wellington International,WLG,1,Etihad Airways,4601.0,EY4601,1,0,1
+2025-03-15,2,Auckland International,AKL,14,Wellington International,WLG,1,EVA Air,3243.0,BR3243,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Dunedin International,DUD,0,Air New Zealand,671.0,NZ671,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Dunedin International,DUD,0,Singapore Airlines,4374.0,SQ4374,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Dunedin International,DUD,0,Qantas,8457.0,QF8457,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Dunedin International,DUD,0,Etihad Airways,4753.0,EY4753,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Dunedin International,DUD,0,EVA Air,3239.0,BR3239,1,0,1
+2025-03-15,2,Auckland International,AKL,12,Nelson,NSN,0,Air New Zealand,5063.0,NZ5063,1,0,1
+2025-03-15,2,Auckland International,AKL,12,Nelson,NSN,0,Qantas,8471.0,QF8471,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Queenstown,ZQN,0,Air New Zealand,611.0,NZ611,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Queenstown,ZQN,0,Singapore Airlines,4450.0,SQ4450,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Queenstown,ZQN,0,Qantas,8448.0,QF8448,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Queenstown,ZQN,0,Etihad Airways,4739.0,EY4739,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Queenstown,ZQN,0,EVA Air,3273.0,BR3273,1,0,1
+2025-03-15,2,Auckland International,AKL,11,Christchurch International,CHC,0,Air New Zealand,519.0,NZ519,1,0,1
+2025-03-15,2,Auckland International,AKL,11,Christchurch International,CHC,0,Singapore Airlines,4360.0,SQ4360,1,0,1
+2025-03-15,2,Auckland International,AKL,11,Christchurch International,CHC,0,Qantas,8540.0,QF8540,1,0,1
+2025-03-15,2,Auckland International,AKL,11,Christchurch International,CHC,0,Etihad Airways,4683.0,EY4683,1,0,1
+2025-03-15,2,Auckland International,AKL,11,Christchurch International,CHC,0,EVA Air,3335.0,BR3335,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Hawkes Bay,NPE,0,Air New Zealand,5025.0,NZ5025,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Hawkes Bay,NPE,0,Qantas,8465.0,QF8465,1,0,1
+2025-03-15,2,Auckland International,AKL,9,Sydney Kingsford Smith Airport,SYD,0,Jetstar,202.0,JQ202,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Christchurch International,CHC,0,Jetstar,225.0,JQ225,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Christchurch International,CHC,0,Qantas,5592.0,QF5592,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Christchurch International,CHC,0,Fiji Airways,5511.0,FJ5511,1,0,1
+2025-03-15,2,Jinan,TNA,8,Nanjing Lukou International Airport,NKG,0,China Postal Airlines,9075.0,CF9075,1,0,1
+2025-03-15,2,Melbourne - Tullamarine Airport,MEL,11,Canberra,CBR,0,Qantas,962.0,QF962,1,0,1
+2025-03-15,2,Melbourne - Tullamarine Airport,MEL,14,Sydney Kingsford Smith Airport,SYD,0,Virgin Australia,803.0,VA803,1,0,1
+2025-03-15,2,Melbourne - Tullamarine Airport,MEL,18,Sydney Kingsford Smith Airport,SYD,0,Qantas,402.0,QF402,1,0,1
+2025-03-15,2,Melbourne - Tullamarine Airport,MEL,2,Sydney Kingsford Smith Airport,SYD,0,Jetstar,500.0,JQ500,1,0,1
+2025-03-15,2,Mactan-Cebu International,CEB,8,Ninoy Aquino International,MNL,0,Turkish Airlines,265.0,TK265,1,0,1
+2025-03-15,2,Tauranga,TRG,1,Auckland International,AKL,0,Air New Zealand,5126.0,NZ5126,1,0,1
+2025-03-15,2,Tauranga,TRG,1,Auckland International,AKL,0,Singapore Airlines,4428.0,SQ4428,1,0,1
+2025-03-15,2,Tauranga,TRG,1,Auckland International,AKL,0,Qantas,8520.0,QF8520,1,0,1
+2025-03-15,2,Guangzhou Baiyun International,CAN,38,Don Muang,DMK,4,AirAsia,533.0,AK533,-1,0,1
+2025-03-15,2,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,1,Ninoy Aquino International,MNL,0,Cebu Pacific Air,311.0,5J311,1,0,1
+2025-03-15,2,Brisbane International,BNE,7,Sydney Kingsford Smith Airport,SYD,0,Qantas,501.0,QF501,1,0,1
+2025-03-15,2,Beijing Capital International,PEK,14,Seoul (Incheon),ICN,0,Xiamen Airlines,9095.0,MF9095,1,0,1
+2025-03-15,2,Invercargill,IVC,5,Christchurch International,CHC,0,Air New Zealand,5704.0,NZ5704,1,0,1
+2025-03-15,2,Thiruvananthapuram International,TRV,5,Hyderabad Airport,HYD,0,Air India Express,2990.0,IX2990,1,0,1
+2025-03-15,2,Kuala Lumpur International Airport (klia),KUL,11,Singapore Changi,SIN,0,Singapore Airlines,8327.0,SQ8327,1,0,1
+2025-03-15,2,Rotorua,ROT,3,Auckland International,AKL,0,Air New Zealand,5150.0,NZ5150,1,0,1
+2025-03-15,2,Rotorua,ROT,3,Auckland International,AKL,0,Singapore Airlines,4421.0,SQ4421,1,0,1
+2025-03-15,2,Rotorua,ROT,3,Auckland International,AKL,0,Qantas,8515.0,QF8515,1,0,1
+2025-03-15,2,Rotorua,ROT,3,Auckland International,AKL,0,Etihad Airways,4532.0,EY4532,1,0,1
+2025-03-15,2,Nanchang,KHN,16,Nanjing Lukou International Airport,NKG,0,China Postal Airlines,9023.0,CF9023,1,0,1
+2025-03-15,2,Tianhe International,WUH,7,Shenzhen,SZX,4,SF Airlines,6923.0,O36923,1,0,1
+2025-03-15,2,Shenzhen,SZX,13,Nanjing Lukou International Airport,NKG,0,China Postal Airlines,9037.0,CF9037,1,0,1
+2025-03-15,2,Shenzhen,SZX,10,Suvarnabhumi International,BKK,0,Shenzhen Airlines,305.0,ZH305,1,0,1
+2025-03-15,2,Auckland International,AKL,20,Sydney Kingsford Smith Airport,SYD,0,Qantas,140.0,QF140,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Wellington International,WLG,0,Jetstar,251.0,JQ251,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Wellington International,WLG,0,Qantas,5769.0,QF5769,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Wellington International,WLG,0,Fiji Airways,5543.0,FJ5543,1,0,1
+2025-03-15,2,Auckland International,AKL,6,Wellington International,WLG,0,Emirates,7488.0,EK7488,1,0,1
+2025-03-15,2,Palmerston North,PMR,3,Auckland International,AKL,0,Air New Zealand,5100.0,NZ5100,1,0,1
+2025-03-15,2,Palmerston North,PMR,3,Auckland International,AKL,0,Qantas,8484.0,QF8484,1,0,1
+2025-03-15,2,Chitose,CTS,24,Haneda Airport,HND,0,Spring Airlines Japan,410.0,IJ410,1,0,1
+2025-03-15,2,Christchurch International,CHC,30,Sydney Kingsford Smith Airport,SYD,0,Qantas,138.0,QF138,1,0,1
+2025-03-15,2,Christchurch International,CHC,7,Auckland International,AKL,0,Air New Zealand,582.0,NZ582,1,0,1
+2025-03-15,2,Christchurch International,CHC,7,Auckland International,AKL,0,Etihad Airways,4494.0,EY4494,1,0,1
+2025-03-15,2,Haneda Airport,HND,20,Seoul (Incheon),ICN,0,Asiana Airlines,177.0,OZ177,1,0,1
+2025-03-15,2,Haneda Airport,HND,24,Seoul (Incheon),ICN,0,Peach Aviation,809.0,MM809,1,0,1
+2025-03-15,2,Haneda Airport,HND,16,Seoul (Incheon),ICN,0,Korean Air,720.0,KE720,1,0,1
+2025-03-15,2,Noibai International,HAN,16,Hong Kong International,HKG,0,Atlas Air,8641.0,5Y8641,1,0,1
+2025-03-15,2,Hong Kong International,HKG,41,Seoul (Incheon),ICN,2,Korean Air,178.0,KE178,-1,0,1
+2025-03-15,2,Hong Kong International,HKG,27,Seoul (Incheon),ICN,2,Asiana Airlines,746.0,OZ746,1,0,1
+2025-03-15,2,Tauranga,TRG,10,Christchurch International,CHC,14,Singapore Airlines,4537.0,SQ4537,1,0,1
+2025-03-15,2,Dayong,DYG,1,Kota-Kinabalu International Airport,BKI,0,Malindo Air,629.0,OD629,1,0,1
+2025-03-15,2,Noibai International,HAN,3,Shenzhen,SZX,0,Shenzhen Airlines,108.0,ZH108,1,0,1
+2025-03-15,2,Wellington International,WLG,12,Christchurch International,CHC,3,Air New Zealand,5327.0,NZ5327,1,0,1
+2025-03-15,2,Wellington International,WLG,12,Christchurch International,CHC,3,Etihad Airways,4588.0,EY4588,1,0,1
+2025-03-15,2,Harbin,HRB,15,Vladivostok,VVO,0,Aurora,5473.0,HZ5473,1,0,1
+2025-03-15,2,Xianyang,XIY,25,Nanjing Lukou International Airport,NKG,0,China Postal Airlines,9033.0,CF9033,1,0,1
+2025-03-15,2,Yantai,YNT,37,Kansai International,KIX,0,Central Airlines,8871.0,I98871,1,0,1
+2025-03-15,2,Auckland International,AKL,24,Rotorua,ROT,7,Qantas,8533.0,QF8533,1,0,1
+2025-03-15,2,Gisborne,GIS,7,Auckland International,AKL,0,Qantas,8493.0,QF8493,1,0,1
+2025-03-15,2,Melbourne - Tullamarine Airport,MEL,1,Hobart,HBA,0,Jetstar,703.0,JQ703,1,0,1
+2025-03-15,2,Darwin,DRW,23,Brisbane International,BNE,11,Jetstar,673.0,JQ673,1,0,1
+2025-03-15,2,Darwin,DRW,23,Brisbane International,BNE,11,Qantas,5673.0,QF5673,1,0,1
+2025-03-15,2,Darwin,DRW,16,Sydney Kingsford Smith Airport,SYD,0,Jetstar,671.0,JQ671,1,0,1
+2025-03-15,2,Darwin,DRW,16,Sydney Kingsford Smith Airport,SYD,0,Qantas,5671.0,QF5671,1,0,1
+2025-03-15,2,Darwin,DRW,16,Sydney Kingsford Smith Airport,SYD,0,LATAM Airlines,5713.0,LA5713,1,0,1
+2025-03-15,2,Ninoy Aquino International,MNL,1,Bacolod,BCD,0,AirAsia,601.0,AK601,1,0,1
+2025-03-15,2,Seoul (Incheon),ICN,16,Xianyang,XIY,0,Korean Air,327.0,KE327,1,0,1
+2025-03-15,2,Seoul (Incheon),ICN,25,Guangzhou Baiyun International,CAN,0,Korean Air,319.0,KE319,1,0,1
+2025-03-15,2,Faleolo,APW,5,Nadi International,NAN,0,Fiji Airways,852.0,FJ852,1,0,1
+2025-03-15,2,Canberra,CBR,7,Melbourne - Tullamarine Airport,MEL,0,Virgin Australia,252.0,VA252,1,0,1
+2025-03-15,2,Wenzhou,WNZ,112,Shenzhen,SZX,19,SF Airlines,7277.0,O37277,-1,-1,-1
+2025-03-15,2,Christchurch International,CHC,7,Auckland International,AKL,0,EVA Air,3248.0,BR3248,1,0,1
+2025-03-15,2,Nausori,SUV,1,Nadi International,NAN,10,Fiji Airways,6.0,FJ6,1,0,1
+2025-03-15,2,Nausori,SUV,1,Nadi International,NAN,10,Singapore Airlines,6146.0,SQ6146,1,0,1
+2025-03-15,2,Auckland International,AKL,17,Wellington International,WLG,0,Air New Zealand,409.0,NZ409,1,0,1
+2025-03-15,2,Auckland International,AKL,16,Christchurch International,CHC,2,Air New Zealand,523.0,NZ523,1,0,1
+2025-03-15,2,Auckland International,AKL,10,Woodbourne Air Station,BHE,3,Air New Zealand,5201.0,NZ5201,1,0,1
+2025-03-15,2,Shuangliu,CTU,18,Hangzhou,HGH,0,North-Western Cargo International Airlines,9643.0,CO9643,1,0,1
+2025-03-15,2,Hamilton,HLZ,9,Wellington International,WLG,0,Air New Zealand,5527.0,NZ5527,1,0,1
+2025-03-15,2,Nelson,NSN,5,Wellington International,WLG,0,Air New Zealand,5998.0,NZ5998,1,0,1
+2025-03-15,2,Nelson,NSN,12,Christchurch International,CHC,1,Air New Zealand,5855.0,NZ5855,1,0,1
+2025-03-15,2,Hong Kong International,HKG,40,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,11,EVA Air,6530.0,BR6530,-1,0,1
+2025-03-15,2,Forest Hill,WGA,6,Sydney Kingsford Smith Airport,SYD,0,Rex Regional Express,6658.0,ZL6658,1,0,1
+2025-03-15,2,Mactan-Cebu International,CEB,9,Ninoy Aquino International,MNL,1,China Airlines,9560.0,CI9560,1,0,1
+2025-03-15,2,Mactan-Cebu International,CEB,9,Ninoy Aquino International,MNL,1,Philippine Airlines,2858.0,PR2858,1,0,1
+2025-03-15,2,Mactan-Cebu International,CEB,29,Ninoy Aquino International,MNL,0,Cebu Pacific Air,560.0,5J560,1,0,1
+2025-03-15,2,Guangzhou Baiyun International,CAN,30,Suvarnabhumi International,BKK,1,China Eastern Airlines,251.0,MU251,1,0,1
+2025-03-15,2,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,7,Ninoy Aquino International,MNL,0,AirAsia,129.0,AK129,1,0,1
+2025-03-15,2,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,15,Daegu,TAE,0,T'Way Air,664.0,TW664,1,0,1
+2025-03-15,2,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,27,Daegu,TAE,10,Jin Air,756.0,LJ756,1,0,1
+2025-03-15,2,Francisco Bangoy International,DVO,1,Ninoy Aquino International,MNL,0,Philippine Airlines,2808.0,PR2808,1,0,1
+2025-03-15,2,Francisco Bangoy International,DVO,1,Ninoy Aquino International,MNL,0,Malaysia Airlines,5526.0,MH5526,1,0,1
+2025-03-15,2,Francisco Bangoy International,DVO,1,Ninoy Aquino International,MNL,0,China Airlines,8914.0,CI8914,1,0,1
+2025-03-15,2,Tauranga,TRG,4,Wellington International,WLG,0,Air New Zealand,5251.0,NZ5251,1,0,1
+2025-03-15,2,Tauranga,TRG,15,Auckland International,AKL,3,Air New Zealand,5144.0,NZ5144,1,0,1
+2025-03-15,2,Lishe International Airport,NGB,2,Guangzhou Baiyun International,CAN,10,SF Airlines,7267.0,O37267,1,0,1
+2025-03-15,2,Yiwu,YIW,15,Ninoy Aquino International,MNL,13,China Postal Airlines,213.0,CF213,1,0,1
+2025-03-15,2,Gisborne,GIS,7,Auckland International,AKL,0,Singapore Airlines,4386.0,SQ4386,1,0,1
+2025-03-15,2,Gisborne,GIS,7,Auckland International,AKL,0,Air New Zealand,5160.0,NZ5160,1,0,1
+2025-03-15,2,Gisborne,GIS,10,Wellington International,WLG,10,Air New Zealand,5507.0,NZ5507,1,0,1
+2025-03-15,2,Woodbourne Air Station,BHE,1,Auckland International,AKL,0,Air New Zealand,5208.0,NZ5208,1,0,1
+2025-03-15,2,Woodbourne Air Station,BHE,1,Auckland International,AKL,0,Singapore Airlines,4370.0,SQ4370,1,0,1
+2025-03-15,2,Woodbourne Air Station,BHE,1,Auckland International,AKL,0,Qantas,8508.0,QF8508,1,0,1
+2025-03-15,2,Cowra,CWT,2,Sydney Kingsford Smith Airport,SYD,3,Toll Aviation,,,1,0,1
+2025-03-15,2,New Plymouth,NPL,10,Auckland International,AKL,0,Qantas,8502.0,QF8502,1,0,1
+2025-03-15,2,New Plymouth,NPL,10,Auckland International,AKL,0,Singapore Airlines,4400.0,SQ4400,1,0,1
+2025-03-15,2,New Plymouth,NPL,10,Auckland International,AKL,0,Air New Zealand,5030.0,NZ5030,1,0,1
+2025-03-15,2,New Plymouth,NPL,4,Wellington International,WLG,0,Air New Zealand,5791.0,NZ5791,1,0,1
+2025-03-15,2,Seoul (Incheon),ICN,18,Shanghai Pudong International,PVG,0,Atlas Air,8143.0,5Y8143,1,0,1
+2025-03-15,2,Seoul (Incheon),ICN,10,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,0,Tigerair Taiwan,603.0,IT603,1,0,1
+2025-03-15,2,Seoul (Incheon),ICN,31,Shanghai Pudong International,PVG,0,Atlas Air,8065.0,5Y8065,1,0,1
+2025-03-15,2,Seoul (Incheon),ICN,21,Shanghai Pudong International,PVG,0,Atlas Air,811.0,5Y811,1,0,1
+2025-03-15,2,Shenzhen,SZX,24,Noibai International,HAN,0,Air China LTD,7977.0,CA7977,1,0,1
+2025-03-15,2,Guangzhou Baiyun International,CAN,1,Kota-Kinabalu International Airport,BKI,0,AirAsia,1531.0,AK1531,1,0,1
+2025-03-15,2,Shenzhen,SZX,24,Noibai International,HAN,0,Shenzhen Airlines,107.0,ZH107,1,0,1
+2025-03-15,2,Daguocun,SJW,10,Nanjing Lukou International Airport,NKG,0,China Postal Airlines,9005.0,CF9005,1,0,1
+2025-03-15,2,Nelson,NSN,9,Auckland International,AKL,0,Air New Zealand,5064.0,NZ5064,1,0,1
+2025-03-15,2,Nelson,NSN,9,Auckland International,AKL,0,Qantas,8475.0,QF8475,1,0,1
+2025-03-15,2,Hawkes Bay,NPE,1,Auckland International,AKL,0,Air New Zealand,5002.0,NZ5002,1,0,1
+2025-03-15,2,Hawkes Bay,NPE,1,Auckland International,AKL,0,Qantas,8469.0,QF8469,1,0,1
+2025-03-15,2,Penang International,PEN,6,Hong Kong International,HKG,0,Cathay Pacific,5749.0,CX5749,1,0,1
+2025-03-15,2,Penang International,PEN,6,Hong Kong International,HKG,0,Hong Kong Express,749.0,UO749,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Queenstown,ZQN,0,United Airlines,6747.0,UA6747,1,0,1
+2025-03-15,2,Haneda Airport,HND,16,Seoul (Incheon),ICN,0,Virgin Atlantic,5530.0,VS5530,1,0,1
+2025-03-15,2,Haneda Airport,HND,16,Seoul (Incheon),ICN,0,Air France,5367.0,AF5367,1,0,1
+2025-03-15,2,Haneda Airport,HND,16,Seoul (Incheon),ICN,0,Japan Airlines,5257.0,JL5257,1,0,1
+2025-03-15,2,Haneda Airport,HND,20,Seoul (Incheon),ICN,0,ANA,6895.0,NH6895,1,0,1
+2025-03-15,2,Palmerston North,PMR,2,Christchurch International,CHC,0,Air New Zealand,5189.0,NZ5189,1,0,1
+2025-03-15,2,Palmerston North,PMR,2,Christchurch International,CHC,0,Singapore Airlines,4530.0,SQ4530,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Dunedin International,DUD,0,United Airlines,6738.0,UA6738,1,0,1
+2025-03-15,2,Shanghai Pudong International,PVG,17,Haneda Airport,HND,0,Peach Aviation,876.0,MM876,1,0,1
+2025-03-15,2,Tianjin Binhai International,TSN,41,Nanjing Lukou International Airport,NKG,13,China Postal Airlines,9101.0,CF9101,1,0,1
+2025-03-15,2,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,25,Haneda Airport,HND,7,Tigerair Taiwan,216.0,IT216,1,0,1
+2025-03-15,2,Christchurch International,CHC,1,Wellington International,WLG,0,Air New Zealand,5332.0,NZ5332,1,0,1
+2025-03-15,2,Christchurch International,CHC,1,Wellington International,WLG,0,Etihad Airways,4560.0,EY4560,1,0,1
+2025-03-15,2,Christchurch International,CHC,5,Auckland International,AKL,0,Air New Zealand,584.0,NZ584,1,0,1
+2025-03-15,2,Christchurch International,CHC,5,Auckland International,AKL,0,Turkish Airlines,8752.0,TK8752,1,0,1
+2025-03-15,2,Christchurch International,CHC,5,Auckland International,AKL,0,Asiana Airlines,6548.0,OZ6548,1,0,1
+2025-03-15,2,Christchurch International,CHC,5,Auckland International,AKL,0,ANA,7955.0,NH7955,1,0,1
+2025-03-15,2,Christchurch International,CHC,5,Auckland International,AKL,0,Etihad Airways,4497.0,EY4497,1,0,1
+2025-03-15,2,Christchurch International,CHC,5,Auckland International,AKL,0,EVA Air,3260.0,BR3260,1,0,1
+2025-03-15,2,Christchurch International,CHC,3,Wellington International,WLG,0,Jetstar,288.0,JQ288,1,0,1
+2025-03-15,2,Christchurch International,CHC,3,Wellington International,WLG,0,Qantas,5813.0,QF5813,1,0,1
+2025-03-15,2,Christchurch International,CHC,3,Wellington International,WLG,0,Fiji Airways,5554.0,FJ5554,1,0,1
+2025-03-15,2,Christchurch International,CHC,48,Auckland International,AKL,34,Jetstar,226.0,JQ226,-1,0,1
+2025-03-15,2,Christchurch International,CHC,48,Auckland International,AKL,34,Qantas,5593.0,QF5593,-1,0,1
+2025-03-15,2,Christchurch International,CHC,48,Auckland International,AKL,34,Fiji Airways,5512.0,FJ5512,-1,0,1
+2025-03-15,2,Christchurch International,CHC,48,Auckland International,AKL,34,Emirates,7486.0,EK7486,-1,0,1
+2025-03-15,2,Christchurch International,CHC,48,Auckland International,AKL,34,American Airlines,9037.0,AA9037,-1,0,1
+2025-03-15,2,Hangzhou,HGH,23,Shenzhen,SZX,20,SF Airlines,7223.0,O37223,-1,0,1
+2025-03-15,2,Shenzhen,SZX,36,Beijing Capital International,PEK,13,SF Airlines,6811.0,O36811,1,0,1
+2025-03-15,2,Noibai International,HAN,9,Ninoy Aquino International,MNL,0,Vietnam Airlines,647.0,VN647,1,0,1
+2025-03-15,2,Mactan-Cebu International,CEB,16,Ninoy Aquino International,MNL,0,Cebu Pacific Air,6512.0,5J6512,1,0,1
+2025-03-15,2,Hawkes Bay,NPE,5,Auckland International,AKL,0,Air New Zealand,5006.0,NZ5006,1,0,1
+2025-03-15,2,Sydney Kingsford Smith Airport,SYD,23,Canberra,CBR,25,empty,,,-1,0,1
+2025-03-15,2,Auckland International,AKL,6,Christchurch International,CHC,0,Emirates,7525.0,EK7525,1,0,1
+2025-03-15,2,Seoul (Incheon),ICN,28,Shanghai Pudong International,PVG,10,Korean Air,249.0,KE249,1,0,1
+2025-03-15,2,Seoul (Incheon),ICN,11,Hong Kong International,HKG,0,Atlas Air,8579.0,5Y8579,1,0,1
+2025-03-15,2,Beijing Capital International,PEK,14,Seoul (Incheon),ICN,0,Korean Air,854.0,KE854,1,0,1
+2025-03-15,2,Dubbo,DBO,4,Sydney Kingsford Smith Airport,SYD,0,Rex Regional Express,6821.0,ZL6821,1,0,1
+2025-03-15,2,Nelson,NSN,10,Auckland International,AKL,0,Singapore Airlines,4410.0,SQ4410,1,0,1
+2025-03-15,2,Nelson,NSN,10,Auckland International,AKL,0,Air New Zealand,5062.0,NZ5062,1,0,1
+2025-03-15,2,Nelson,NSN,10,Wellington International,WLG,0,Air New Zealand,5300.0,NZ5300,1,0,1
+2025-03-15,2,Shenzhen,SZX,42,Hangzhou,HGH,15,SF Airlines,7224.0,O37224,-1,0,1
+2025-03-15,2,Wellington International,WLG,9,Auckland International,AKL,0,Air New Zealand,402.0,NZ402,1,0,1
+2025-03-15,2,Wellington International,WLG,9,Auckland International,AKL,0,Turkish Airlines,8746.0,TK8746,1,0,1
+2025-03-15,2,Wellington International,WLG,9,Auckland International,AKL,0,Singapore Airlines,4293.0,SQ4293,1,0,1
+2025-03-15,2,Wellington International,WLG,9,Auckland International,AKL,0,Qantas,8534.0,QF8534,1,0,1
+2025-03-15,2,Wellington International,WLG,9,Auckland International,AKL,0,Asiana Airlines,6558.0,OZ6558,1,0,1
+2025-03-15,2,Wellington International,WLG,9,Auckland International,AKL,0,ANA,7957.0,NH7957,1,0,1
+2025-03-15,2,Wellington International,WLG,9,Auckland International,AKL,0,Asiana Airlines,6558.0,OZ6558,1,0,1
+2025-03-15,2,Wellington International,WLG,9,Auckland International,AKL,0,ANA,7957.0,NH7957,1,0,1
+2025-03-15,2,Wellington International,WLG,9,Auckland International,AKL,0,Etihad Airways,4518.0,EY4518,1,0,1
+2025-03-15,2,Wellington International,WLG,9,Auckland International,AKL,0,EVA Air,3300.0,BR3300,1,0,1
+2025-03-15,2,Shanghai Pudong International,PVG,18,Shenzhen,SZX,7,SF Airlines,7203.0,O37203,1,0,1
+2025-03-15,2,Shanghai Pudong International,PVG,11,Beijing Capital International,PEK,0,SF Airlines,7201.0,O37201,1,0,1
+2025-03-15,2,Wuxi,WUX,53,Shenzhen,SZX,32,SF Airlines,6840.0,O36840,-1,0,1
+2025-03-15,2,Auckland International,AKL,24,Rotorua,ROT,7,Air China LTD,5962.0,CA5962,1,0,1
+2025-03-15,2,Auckland International,AKL,24,Rotorua,ROT,7,Etihad Airways,4483.0,EY4483,1,0,1
+2025-03-15,2,Auckland International,AKL,24,Rotorua,ROT,7,Singapore Airlines,4418.0,SQ4418,1,0,1
+2025-03-15,2,Auckland International,AKL,24,Rotorua,ROT,7,Air New Zealand,5151.0,NZ5151,1,0,1
+2025-03-15,2,Beijing Capital International,PEK,15,Hangzhou,HGH,0,SF Airlines,7119.0,O37119,1,0,1
+2025-03-15,2,Bandar Seri Begwan International Airport,BWN,6,Soekarno-Hatta International,CGK,0,Royal Brunei Airlines,737.0,BI737,1,0,1
+2025-03-15,2,Perth International,PER,7,Melbourne - Tullamarine Airport,MEL,0,Jetstar,971.0,JQ971,1,0,1
+2025-03-15,2,Queenstown,ZQN,9,Auckland International,AKL,0,EVA Air,3232.0,BR3232,1,0,1
+2025-03-15,2,Queenstown,ZQN,9,Auckland International,AKL,0,Etihad Airways,4523.0,EY4523,1,0,1
+2025-03-15,2,Queenstown,ZQN,9,Auckland International,AKL,0,ANA,7977.0,NH7977,1,0,1
+2025-03-15,2,Queenstown,ZQN,9,Auckland International,AKL,0,Singapore Airlines,4457.0,SQ4457,1,0,1
+2025-03-15,2,Queenstown,ZQN,9,Auckland International,AKL,0,Turkish Airlines,8726.0,TK8726,1,0,1
+2025-03-15,2,Queenstown,ZQN,9,Auckland International,AKL,0,Air New Zealand,638.0,NZ638,1,0,1
+2025-03-15,2,Dunedin International,DUD,5,Wellington International,WLG,0,Etihad Airways,4620.0,EY4620,1,0,1
+2025-03-15,2,Dunedin International,DUD,5,Wellington International,WLG,0,Qantas,8571.0,QF8571,1,0,1
+2025-03-15,2,Dunedin International,DUD,5,Wellington International,WLG,0,Air New Zealand,5680.0,NZ5680,1,0,1
+2025-03-15,2,Lohegaon,PNQ,4,Hyderabad Airport,HYD,0,IndiGo,336.0,6E336,1,0,1
+2025-03-15,2,Tauranga,TRG,10,Christchurch International,CHC,14,Air New Zealand,5807.0,NZ5807,1,0,1
+2025-03-15,2,Jinjiang,JJN,19,Hangzhou,HGH,13,SF Airlines,7067.0,O37067,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Palmerston North,PMR,0,Air New Zealand,5119.0,NZ5119,1,0,1
+2025-03-15,2,Auckland International,AKL,8,Palmerston North,PMR,0,Singapore Airlines,4413.0,SQ4413,1,0,1
+2025-03-15,2,Auckland International,AKL,13,Queenstown,ZQN,0,Jetstar,299.0,JQ299,1,0,1
+2025-03-15,2,Auckland International,AKL,13,Queenstown,ZQN,0,Qantas,5823.0,QF5823,1,0,1
+2025-03-15,2,Auckland International,AKL,13,Queenstown,ZQN,0,Emirates,7571.0,EK7571,1,0,1
+2025-03-15,2,Auckland International,AKL,13,Queenstown,ZQN,0,American Airlines,9041.0,AA9041,1,0,1
+2025-03-15,2,Woodbourne Air Station,BHE,5,Wellington International,WLG,0,Sounds Air,212.0,S8212,1,0,1
+2025-03-15,2,Francisco Bangoy International,DVO,76,Ninoy Aquino International,MNL,36,Cebu Pacific Air,954.0,5J954,-1,0,1
+2025-03-15,2,Francisco Bangoy International,DVO,15,Ninoy Aquino International,MNL,0,Cebu Pacific Air,976.0,5J976,1,0,1
+2025-03-15,2,Ninoy Aquino International,MNL,13,Suvarnabhumi International,BKK,0,Cebu Pacific Air,931.0,5J931,1,0,1
+2025-03-15,2,Darwin,DRW,16,Melbourne - Tullamarine Airport,MEL,0,Qantas,839.0,QF839,1,0,1
+2025-03-15,2,Darwin,DRW,16,Melbourne - Tullamarine Airport,MEL,0,Air New Zealand,7839.0,NZ7839,1,0,1
+2025-03-15,2,Darwin,DRW,16,Melbourne - Tullamarine Airport,MEL,0,Cathay Pacific,9042.0,CX9042,1,0,1
+2025-03-15,2,Darwin,DRW,16,Melbourne - Tullamarine Airport,MEL,0,China Eastern Airlines,4103.0,MU4103,1,0,1
+2025-03-15,2,Nelson,NSN,22,Wellington International,WLG,8,Sounds Air,330.0,S8330,1,0,1
+2025-03-15,2,Kununurra,KNX,17,Broome,BME,12,Thai AirAsia,608.0,FD608,1,0,1
+2025-03-15,2,Wellington International,WLG,8,Nelson,NSN,2,Sounds Air,359.0,S8359,1,0,1
+2025-03-15,2,Vladivostok,VVO,36,Harbin,HRB,19,Aurora,5472.0,HZ5472,-1,0,1
+2025-03-15,2,Vladivostok,VVO,5,Beijing Daxing International Airport,PKX,2,Rossiya Airlines,6611.0,FV6611,1,0,1
+2025-03-15,2,Guangzhou Baiyun International,CAN,60,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,31,SF Airlines,7911.0,O37911,-1,0,1
+2025-03-15,2,Sydney Bankstown,BWU,2,Canberra,CBR,1,Mandarin Airlines,950.0,AE950,1,0,1
+2025-03-15,2,Madras International (Meenambakkam),MAA,6,Bandaranaike International,CMB,0,IndiGo,1171.0,6E1171,1,0,1
+2025-03-15,2,Wellington International,WLG,2,Woodbourne Air Station,BHE,0,Sounds Air,215.0,S8215,1,0,1
+2025-03-15,2,Geraldton,GET,31,Jandakot,JAD,0,Thai AirAsia,614.0,FD614,1,0,1
+2025-03-15,2,Gladstone,GLT,8,Gladstone,GLT,0,empty,,,1,0,1
+2025-03-15,2,Maroochydore,MCY,5,Canberra,CBR,17,empty,,,-1,0,1
+2025-03-15,2,Brisbane International,BNE,16,Rockhampton,ROK,17,Thai AirAsia,471.0,FD471,-1,0,1
+2025-03-15,2,Wellington International,WLG,3,Woodbourne Air Station,BHE,0,Sounds Air,281.0,S8281,1,0,1
+2025-03-14,2,Salt Lake City International,SLC,17,Newark Liberty International,EWR,0,United Airlines,2315.0,UA2315,1,0,1
+2025-03-14,2,Gen Belgrano,SLA,29,Aeroparque Jorge Newbery,AEP,1,Aerolineas Argentinas,1195.0,AR1195,1,0,1
+2025-03-14,2,Gen Belgrano,SLA,29,Aeroparque Jorge Newbery,AEP,1,LATAM Airlines,8380.0,LA8380,1,0,1
+2025-03-14,2,Saidpur,SPD,25,Zia International,DAC,2,Biman Bangladesh Airlines,492.0,BG492,1,0,1
+2025-03-14,2,Ninoy Aquino International,MNL,17,Iloilo International,ILO,0,China Airlines,8943.0,CI8943,1,0,1
+2025-03-14,2,Changchun,CGQ,2,Weihai,WEH,0,Chengdu Airlines,2722.0,EU2722,1,0,1
+2025-03-14,2,Changchun,CGQ,13,Shanghai Pudong International,PVG,0,Shanghai Airlines,9068.0,FM9068,1,0,1
+2025-03-14,2,Changchun,CGQ,4,Zhengzhou,CGO,0,Lucky Air,9638.0,8L9638,1,0,1
+2025-03-14,2,Changchun,CGQ,11,Hangzhou,HGH,6,Xiamen Airlines,8044.0,MF8044,1,0,1
+2025-03-14,2,Changchun,CGQ,10,Taiyuan,TYN,2,Shandong Airlines,2268.0,SC2268,1,0,1
+2025-03-14,2,Changchun,CGQ,1,Yulin,UYN,3,Air China LTD,9092.0,CA9092,1,0,1
+2025-03-14,2,Changchun,CGQ,1,Yulin,UYN,3,Xiamen Airlines,2468.0,MF2468,1,0,1
+2025-03-14,2,Changchun,CGQ,1,Yulin,UYN,3,Loong Air,3740.0,GJ3740,1,0,1
+2025-03-14,2,Changchun,CGQ,6,Qingdao,TAO,0,Tibet Airlines,3215.0,TV3215,1,0,1
+2025-03-14,2,Changchun,CGQ,6,Qingdao,TAO,0,China Express Air,6537.0,G56537,1,0,1
+2025-03-14,2,Changchun,CGQ,6,Qingdao,TAO,0,Air China LTD,4815.0,CA4815,1,0,1
+2025-03-14,2,Changchun,CGQ,6,Qingdao,TAO,0,Shenzhen Airlines,2705.0,ZH2705,1,0,1
+2025-03-14,2,Changchun,CGQ,1,Beijing Capital International,PEK,0,Shenzhen Airlines,1628.0,ZH1628,1,0,1
+2025-03-14,2,Changchun,CGQ,1,Beijing Capital International,PEK,0,Air New Zealand,3959.0,NZ3959,1,0,1
+2025-03-14,2,Almeria,LEI,58,San Pablo,SVQ,35,Iberia,2300.0,IB2300,-1,0,1
+2025-03-14,2,Almeria,LEI,21,Barajas,MAD,0,Iberia,1036.0,IB1036,1,0,1
+2025-03-14,2,Almeria,LEI,21,Barajas,MAD,0,Finnair,5618.0,AY5618,1,0,1
+2025-03-14,2,Almeria,LEI,21,Barajas,MAD,0,Japan Airlines,7842.0,JL7842,1,0,1
+2025-03-14,2,Almeria,LEI,21,Barajas,MAD,0,Qatar Airways,6533.0,QR6533,1,0,1
+2025-03-14,2,Almeria,LEI,33,Barajas,MAD,2,American Airlines,8538.0,AA8538,1,0,1
+2025-03-14,2,Chengdu Tianfu International Airport,TFU,6,Zhengzhou,CGO,0,Air China LTD,2695.0,CA2695,1,0,1
+2025-03-14,2,Chengdu Tianfu International Airport,TFU,6,Zhengzhou,CGO,0,Shenzhen Airlines,4295.0,ZH4295,1,0,1
+2025-03-14,2,Shenyang,SHE,5,Zhengzhou,CGO,0,Shandong Airlines,9016.0,SC9016,1,0,1
+2025-03-14,2,Shenyang,SHE,5,Zhengzhou,CGO,0,Juneyao Airlines,5009.0,HO5009,1,0,1
+2025-03-14,2,Shenyang,SHE,5,Zhengzhou,CGO,0,Air China LTD,3326.0,CA3326,1,0,1
+2025-03-14,2,Shanghai Hongqiao International,SHA,5,Zhengzhou,CGO,0,China Eastern Airlines,8443.0,MU8443,1,0,1
+2025-03-14,2,Chongqing Jiangbei International,CKG,3,Zhengzhou,CGO,0,Sichuan Airlines,1200.0,3U1200,1,0,1
+2025-03-14,2,Zhengzhou,CGO,8,Shanghai Pudong International,PVG,0,Suparna Airlines,7518.0,Y87518,1,0,1
+2025-03-14,2,Zhengzhou,CGO,8,Shanghai Pudong International,PVG,0,Hainan Airlines,4710.0,HU4710,1,0,1
+2025-03-14,2,Zhengzhou,CGO,2,Kunming,KMG,0,Lucky Air,9502.0,8L9502,1,0,1
+2025-03-14,2,Zhengzhou,CGO,1,Shanghai Hongqiao International,SHA,0,Shanghai Airlines,9348.0,FM9348,1,0,1
+2025-03-14,2,Zhengzhou,CGO,9,Shanghai Hongqiao International,SHA,0,China Eastern Airlines,8444.0,MU8444,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Guiyang,KWE,0,Shandong Airlines,2323.0,SC2323,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Guiyang,KWE,0,Tibet Airlines,3109.0,TV3109,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Guiyang,KWE,0,China Express Air,8453.0,G58453,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Guiyang,KWE,0,Air China LTD,4701.0,CA4701,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Guiyang,KWE,0,Shenzhen Airlines,2603.0,ZH2603,1,0,1
+2025-03-14,2,Zhengzhou,CGO,5,Hangzhou,HGH,0,China Southern Airlines,3745.0,CZ3745,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Hangzhou,HGH,0,Loong Air,8782.0,GJ8782,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Hangzhou,HGH,0,China Southern Airlines,4820.0,CZ4820,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Hangzhou,HGH,0,Chengdu Airlines,7564.0,EU7564,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Hangzhou,HGH,0,Xiamen Airlines,5869.0,MF5869,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Hangzhou,HGH,0,China Express Air,9506.0,G59506,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Hangzhou,HGH,0,Sichuan Airlines,4124.0,3U4124,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Hangzhou,HGH,0,Hainan Airlines,2782.0,HU2782,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Hangzhou,HGH,0,China Eastern Airlines,4332.0,MU4332,1,0,1
+2025-03-14,2,Zhengzhou,CGO,4,Hangzhou,HGH,0,Tibet Airlines,2170.0,TV2170,1,0,1
+2025-03-14,2,Zhengzhou,CGO,5,Urumqi,URC,0,China Southern Airlines,8231.0,CZ8231,1,0,1
+2025-03-14,2,Zhengzhou,CGO,5,Urumqi,URC,0,Sichuan Airlines,1975.0,3U1975,1,0,1
+2025-03-14,2,Zhengzhou,CGO,5,Shenyang,SHE,0,Shenzhen Airlines,9389.0,ZH9389,1,0,1
+2025-03-14,2,Zhengzhou,CGO,5,Shenyang,SHE,0,Shandong Airlines,9409.0,SC9409,1,0,1
+2025-03-14,2,Zhengzhou,CGO,5,Shenyang,SHE,0,Air China LTD,7945.0,CA7945,1,0,1
+2025-03-14,2,Zhengzhou,CGO,7,Fuzhou,FOC,12,China Southern Airlines,6917.0,CZ6917,1,0,1
+2025-03-14,2,Zhengzhou,CGO,7,Fuzhou,FOC,12,Sichuan Airlines,1899.0,3U1899,1,0,1
+2025-03-14,2,Zhengzhou,CGO,9,Lishe International Airport,NGB,0,Hainan Airlines,7859.0,HU7859,1,0,1
+2025-03-14,2,Zhengzhou,CGO,9,Lishe International Airport,NGB,0,Urumqi Airlines,7859.0,UQ7859,1,0,1
+2025-03-14,2,Zhengzhou,CGO,9,Lishe International Airport,NGB,0,Loong Air,3295.0,GJ3295,1,0,1
+2025-03-14,2,Zhengzhou,CGO,7,Gonggar/Lhasa,LXA,0,Chengdu Airlines,2762.0,EU2762,1,0,1
+2025-03-14,2,Zhengzhou,CGO,7,Gonggar/Lhasa,LXA,0,Loong Air,5596.0,GJ5596,1,0,1
+2025-03-14,2,Zhengzhou,CGO,7,Gonggar/Lhasa,LXA,0,Sichuan Airlines,4400.0,3U4400,1,0,1
+2025-03-14,2,Zhengzhou,CGO,7,Gonggar/Lhasa,LXA,0,China Southern Airlines,7104.0,CZ7104,1,0,1
+2025-03-14,2,Zhengzhou,CGO,7,Gonggar/Lhasa,LXA,0,Tibet Airlines,5204.0,TV5204,1,0,1
+2025-03-14,2,Zhengzhou,CGO,9,Guangzhou Baiyun International,CAN,0,China Southern Airlines,8533.0,CZ8533,1,0,1
+2025-03-14,2,Zhengzhou,CGO,9,Guangzhou Baiyun International,CAN,0,Sichuan Airlines,4803.0,3U4803,1,0,1
+2025-03-14,2,Chengdu Tianfu International Airport,TFU,5,Shanghai Hongqiao International,SHA,0,China Eastern Airlines,9198.0,MU9198,1,0,1
+2025-03-14,2,Lawica,POZ,22,Frederic Chopin,WAW,2,LOT - Polish Airlines,3952.0,LO3952,1,0,1
+2025-03-14,2,Lawica,POZ,22,Frederic Chopin,WAW,2,SAS,8193.0,SK8193,1,0,1
+2025-03-14,2,Pulkovo,LED,50,Vnukovo,VKO,16,Rossiya Airlines,6007.0,FV6007,-1,0,1
+2025-03-14,2,Pulkovo,LED,39,Istanbul Airport,IST,26,Rossiya Airlines,6963.0,FV6963,-1,0,1
+2025-03-14,2,Cologne/bonn,CGN,43,Hurghada,HRG,13,Corendon Air,1093.0,XC1093,1,0,1
+2025-03-14,2,Cologne/bonn,CGN,3,Lisbon Portela,LIS,0,Ryanair,9840.0,FR9840,1,0,1
+2025-03-14,2,Cologne/bonn,CGN,15,Heathrow,LHR,0,Eurowings,460.0,EW460,1,0,1
+2025-03-14,2,Cologne/bonn,CGN,15,Heathrow,LHR,0,United Airlines,9647.0,UA9647,1,0,1
+2025-03-14,2,Cologne/bonn,CGN,15,Heathrow,LHR,0,Air Canada,6949.0,AC6949,1,0,1
+2025-03-14,2,Cologne/bonn,CGN,14,Punta Raisi,PMO,2,Ryanair,5276.0,FR5276,1,0,1
+2025-03-14,2,Cologne/bonn,CGN,12,Sur Reina Sofia,TFS,0,Eurowings,252.0,EW252,1,0,1
+2025-03-14,2,Cologne/bonn,CGN,10,Alicante El Altet,ALC,0,Ryanair,1355.0,FR1355,1,0,1
+2025-03-14,2,Cologne/bonn,CGN,13,Hurghada,HRG,0,Eurowings,980.0,EW980,1,0,1
+2025-03-14,2,Doha International,DOH,9,Queen Alia International,AMM,0,Qatar Airways,6100.0,QR6100,1,0,1
+2025-03-14,2,Queen Alia International,AMM,10,Cairo International Airport,CAI,0,EgyptAir,720.0,MS720,1,0,1
+2025-03-14,2,Queen Alia International,AMM,10,Cairo International Airport,CAI,0,Air Canada,2852.0,AC2852,1,0,1
+2025-03-14,2,Queen Alia International,AMM,10,Heathrow,LHR,0,British Airways,313.0,BA313,1,0,1
+2025-03-14,2,Queen Alia International,AMM,10,Heathrow,LHR,0,American Airlines,7029.0,AA7029,1,0,1
+2025-03-14,2,Queen Alia International,AMM,8,King Hussein International,AQJ,0,Qatar Airways,6108.0,QR6108,1,0,1
+2025-03-14,2,Silampari Airport,LLJ,20,Soekarno-Hatta International,CGK,2,Super Air Jet,807.0,IU807,1,0,1
+2025-03-14,2,Kidjang,TNJ,15,Soekarno-Hatta International,CGK,0,Batik Air,6825.0,ID6825,1,0,1
+2025-03-14,2,Singapore Changi,SIN,14,Soekarno-Hatta International,CGK,0,Virgin Australia,5824.0,VA5824,1,0,1
+2025-03-14,2,Singapore Changi,SIN,14,Soekarno-Hatta International,CGK,0,United Airlines,7677.0,UA7677,1,0,1
+2025-03-14,2,Singapore Changi,SIN,14,Soekarno-Hatta International,CGK,0,SAS,8033.0,SK8033,1,0,1
+2025-03-14,2,Singapore Changi,SIN,14,Soekarno-Hatta International,CGK,0,ANA,6272.0,NH6272,1,0,1
+2025-03-14,2,Singapore Changi,SIN,14,Soekarno-Hatta International,CGK,0,Garuda Indonesia,8956.0,GA8956,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,17,Pangkalpinang,PGK,0,Sriwijaya Air,72.0,SJ72,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,14,Noibai International,HAN,0,VietJet Air,928.0,VJ928,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,17,Achmad Yani,SRG,0,Batik Air,6350.0,ID6350,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,10,Juanda,SUB,0,Garuda Indonesia,310.0,GA310,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,17,Adi Sumarmo,SOC,0,Garuda Indonesia,228.0,GA228,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,12,Mahmud Badaruddin Ii,PLM,0,Garuda Indonesia,108.0,GA108,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,12,Mahmud Badaruddin Ii,PLM,0,Malaysia Airlines,5900.0,MH5900,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,4,Branti,TKG,0,AirAsia,180.0,AK180,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,3,Kuala Lumpur International Airport (klia),KUL,0,AirAsia,352.0,AK352,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,14,Xiamen,XMN,0,Xiamen Airlines,868.0,MF868,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,14,Xiamen,XMN,0,Garuda Indonesia,9729.0,GA9729,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,6,Pangkalpinang,PGK,0,Lion Air,218.0,JT218,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,6,Pangkalpinang,PGK,0,,6384.0,X16384,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,19,,KNO,0,Garuda Indonesia,118.0,GA118,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,19,,KNO,0,Saudia,6191.0,SV6191,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,19,,KNO,0,Etihad Airways,7134.0,EY7134,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,5,Tan Son Nhat International,SGN,0,VietJet Air,854.0,VJ854,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,5,Tan Son Nhat International,SGN,0,FlexFlight,4854.0,W24854,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,5,Tan Son Nhat International,SGN,0,,2854.0,A12854,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,5,Tan Son Nhat International,SGN,0,,4280.0,H14280,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,13,Kidjang,TNJ,0,Citilink,974.0,QG974,1,0,1
+2025-03-14,2,Soekarno-Hatta International,CGK,15,Sjamsudin Noor,BDJ,6,Garuda Indonesia,532.0,GA532,1,0,1
+2025-03-14,2,Koh Samui,USM,2,Suvarnabhumi International,BKK,0,EVA Air,3898.0,BR3898,1,0,1
+2025-03-14,2,Eglinton (City of Derry),LDY,14,Heathrow,LHR,0,Loganair,651.0,LM651,1,0,1
+2025-03-14,2,Eglinton (City of Derry),LDY,14,Heathrow,LHR,0,KLM,3061.0,KL3061,1,0,1
+2025-03-14,2,Eglinton (City of Derry),LDY,14,Heathrow,LHR,0,British Airways,4001.0,BA4001,1,0,1
+2025-03-14,2,Irkutsk,IKT,3,Talakan Airport,TLK,0,IrAero,417.0,IO417,1,0,1
+2025-03-14,2,Makung,MZG,13,Kaoshiung International Airport,KHH,0,Mandarin Airlines,340.0,AE340,1,0,1

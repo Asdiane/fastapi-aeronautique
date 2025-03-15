@@ -1,0 +1,81 @@
+Date,Statut,Aeroport_Depart,Code_IATA_Depart,Retard_Depart,Aeroport_Arrivee,Code_IATA_Arrivee,Retard_Arrivee,Compagnie,Numero_Vol,Code_IATA_Vol
+2025-03-15,scheduled,Quaid-e-azam International,KHI,13.0,Abu Dhabi International,AUH,,Etihad Airways,297,EY297
+2025-03-15,scheduled,Changsha,CSX,,Ninoy Aquino International,MNL,,YTO Cargo Airlines,9025,YG9025
+2025-03-15,scheduled,Guangzhou Baiyun International,CAN,,Beijing Capital International,PEK,,Shenzhen Airlines,1310,ZH1310
+2025-03-15,scheduled,Shenzhen,SZX,,Kunming,KMG,,China Southern Airlines,3459,CZ3459
+2025-03-15,scheduled,Noibai International,HAN,,Singapore Changi,SIN,,Cambodia Angkor Air,3661,K63661
+2025-03-15,scheduled,Darwin,DRW,,Nhulunbuy,GOV,,Qantas,8665,QF8665
+2025-03-15,active,Guangzhou Baiyun International,CAN,12.0,Bole International,ADD,,Air China LTD,5063,CA5063
+2025-03-15,scheduled,Daegu,TAE,,Seoul (Incheon),ICN,,Delta Air Lines,7846,DL7846
+2025-03-15,scheduled,Auckland International,AKL,,Hawkes Bay,NPE,,Air New Zealand,5027,NZ5027
+2025-03-15,scheduled,Münster Osnabrück International,FMO,,Antalya,AYT,,SunExpress,251,XQ251
+2025-03-15,scheduled,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,,Fukuoka,FUK,,Hawaiian Airlines,2840,HA2840
+2025-03-15,scheduled,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,,Fukuoka,FUK,,Tigerair Taiwan,240,IT240
+2025-03-15,scheduled,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,,Lishe International Airport,NGB,,SF Airlines,266,O3266
+2025-03-15,scheduled,Nanyang,NNY,,Guangzhou Baiyun International,CAN,,China Southern Airlines,3384,CZ3384
+2025-03-15,scheduled,Sheremetyevo International,SVO,,Phuket International,HKT,,Aeroflot,276,SU276
+2025-03-15,scheduled,Sheremetyevo International,SVO,,Karaganda,KGF,,Aeroflot,1936,SU1936
+2025-03-15,scheduled,Sheremetyevo International,SVO,,Surgut,SGC,,Aeroflot,1512,SU1512
+2025-03-15,scheduled,Sheremetyevo International,SVO,,Krasnojarsk,KJA,,Aeroflot,1482,SU1482
+2025-03-15,scheduled,Fukuoka,FUK,,Sendai,SDJ,,IBEX Airlines,11,FW11
+2025-03-15,scheduled,Fukuoka,FUK,,Sendai,SDJ,,ANA,3111,NH3111
+2025-03-15,scheduled,Fukuoka,FUK,,Haneda Airport,HND,,ANA,242,NH242
+2025-03-15,scheduled,Fukuoka,FUK,,Narita International Airport,NRT,,Peach Aviation,518,MM518
+2025-03-15,scheduled,Fukuoka,FUK,,Matsumoto,MMJ,,Fuji Dream Airlines,200,JH200
+2025-03-15,scheduled,Fukuoka,FUK,,Matsumoto,MMJ,,Japan Airlines,3543,JL3543
+2025-03-15,scheduled,Fukuoka,FUK,,Naha,OKA,,Skymark Airlines,503,BC503
+2025-03-15,scheduled,Fukuoka,FUK,,Chitose,CTS,,ANA,1277,NH1277
+2025-03-15,scheduled,Fukuoka,FUK,,Matsuyama,MYJ,,Japan Airlines,3591,JL3591
+2025-03-15,scheduled,Fukuoka,FUK,,Matsuyama,MYJ,,China Airlines,8301,CI8301
+2025-03-15,scheduled,Fukuoka,FUK,,Matsuyama,MYJ,,Hawaiian Airlines,5822,HA5822
+2025-03-15,scheduled,Fukuoka,FUK,,Tsushima,TSJ,,Oriental Air Bridge,79,OC79
+2025-03-15,scheduled,Fukuoka,FUK,,Tsushima,TSJ,,ANA,4679,NH4679
+2025-03-15,scheduled,Fukuoka,FUK,,Chitose,CTS,,Japan Airlines,3511,JL3511
+2025-03-15,scheduled,Fukuoka,FUK,,Chitose,CTS,,Hawaiian Airlines,5499,HA5499
+2025-03-15,scheduled,Fukuoka,FUK,,Narita International Airport,NRT,,Jetstar Japan,528,GK528
+2025-03-15,scheduled,Fukuoka,FUK,,Narita International Airport,NRT,,Japan Airlines,6062,JL6062
+2025-03-15,scheduled,Fukuoka,FUK,,Miyazaki,KMI,,Oriental Air Bridge,59,OC59
+2025-03-15,scheduled,Fukuoka,FUK,,Miyazaki,KMI,,ANA,4659,NH4659
+2025-03-15,scheduled,Fukuoka,FUK,,Kansai International,KIX,,Peach Aviation,152,MM152
+2025-03-15,scheduled,Fukuoka,FUK,,Chu-Bu Centrair International (Central Japan International),NGO,,Oriental Air Bridge,56,OC56
+2025-03-15,scheduled,Fukuoka,FUK,,Chu-Bu Centrair International (Central Japan International),NGO,,ANA,4656,NH4656
+2025-03-15,scheduled,Fukuoka,FUK,,Haneda Airport,HND,,Japan Airlines,302,JL302
+2025-03-15,scheduled,Fukuoka,FUK,,Haneda Airport,HND,,AlphaSky,7428,AS7428
+2025-03-15,scheduled,Fukuoka,FUK,,Haneda Airport,HND,,Garuda Indonesia,9155,GA9155
+2025-03-15,scheduled,Fukuoka,FUK,,Haneda Airport,HND,,LATAM Airlines,7476,LA7476
+2025-03-15,scheduled,Fukuoka,FUK,,Haneda Airport,HND,,Hawaiian Airlines,5135,HA5135
+2025-03-15,scheduled,Jinjiang,JJN,40.0,Tianhe International,WUH,,China Express Air,9735,G59735
+2025-03-15,scheduled,Jinjiang,JJN,40.0,Tianhe International,WUH,,Loong Air,5415,GJ5415
+2025-03-15,scheduled,Jinjiang,JJN,,Chongqing Jiangbei International,CKG,,Xiamen Airlines,8611,MF8611
+2025-03-15,scheduled,Fukuoka,FUK,,Haneda Airport,HND,,British Airways,4618,BA4618
+2025-03-15,scheduled,Fukuoka,FUK,,Niigata,KIJ,,IBEX Airlines,83,FW83
+2025-03-15,scheduled,Fukuoka,FUK,,Niigata,KIJ,,ANA,3183,NH3183
+2025-03-15,scheduled,Fukuoka,FUK,,Komatsu,KMQ,,Oriental Air Bridge,48,OC48
+2025-03-15,scheduled,Fukuoka,FUK,,Komatsu,KMQ,,ANA,4648,NH4648
+2025-03-15,scheduled,Fukuoka,FUK,,Naha,OKA,,Hawaiian Airlines,5974,HA5974
+2025-03-15,scheduled,Fukuoka,FUK,,Izumo,IZO,,Japan Airlines,3551,JL3551
+2025-03-15,scheduled,Fukuoka,FUK,,Izumo,IZO,,China Airlines,8479,CI8479
+2025-03-15,scheduled,Fukuoka,FUK,,Naha,OKA,,Japan Transocean Air,51,NU51
+2025-03-15,scheduled,Fukuoka,FUK,,Itami,ITM,,ANA,420,NH420
+2025-03-15,scheduled,Fukuoka,FUK,,Miyazaki,KMI,,Japan Airlines,3621,JL3621
+2025-03-15,scheduled,Sheremetyevo International,SVO,,Nizhnevartovsk,NJC,,Aeroflot,1472,SU1472
+2025-03-15,scheduled,Hangzhou,HGH,,Zhengzhou,CGO,,Tibet Airlines,2077,TV2077
+2025-03-15,scheduled,Hangzhou,HGH,,Zunyi,ZYI,,Loong Air,8233,GJ8233
+2025-03-15,scheduled,Hangzhou,HGH,,Zunyi,ZYI,,China Southern Airlines,4829,CZ4829
+2025-03-15,scheduled,Hangzhou,HGH,,Zunyi,ZYI,,Hainan Airlines,2811,HU2811
+2025-03-15,scheduled,Hangzhou,HGH,,Zunyi,ZYI,,Xiamen Airlines,5878,MF5878
+2025-03-15,scheduled,Hangzhou,HGH,,Zunyi,ZYI,,China Eastern Airlines,4339,MU4339
+2025-03-15,scheduled,Hangzhou,HGH,,Zunyi,ZYI,,Tibet Airlines,2179,TV2179
+2025-03-15,scheduled,Hangzhou,HGH,,Zunyi,ZYI,,China Express Air,9513,G59513
+2025-03-15,scheduled,Hangzhou,HGH,,Zunyi,ZYI,,Sichuan Airlines,4133,3U4133
+2025-03-15,scheduled,Hangzhou,HGH,,Haikou,HAK,,Hainan Airlines,7054,HU7054
+2025-03-15,scheduled,Hangzhou,HGH,,Harbin,HRB,,Hainan Airlines,6203,HU6203
+2025-03-15,scheduled,Hangzhou,HGH,,Chengdu Tianfu International Airport,TFU,,Loong Air,6065,GJ6065
+2025-03-15,scheduled,Hangzhou,HGH,,Chengdu Tianfu International Airport,TFU,,China Southern Airlines,4659,CZ4659
+2025-03-15,scheduled,Hangzhou,HGH,,Chengdu Tianfu International Airport,TFU,,Chengdu Airlines,7403,EU7403
+2025-03-15,scheduled,Hangzhou,HGH,,Chengdu Tianfu International Airport,TFU,,Xiamen Airlines,2808,MF2808
+2025-03-15,scheduled,Hangzhou,HGH,,Chengdu Tianfu International Airport,TFU,,China Express Air,8585,G58585
+2025-03-15,cancelled,Hangzhou,HGH,,,RIZ,,Chengdu Airlines,7623,EU7623
+2025-03-15,cancelled,Hangzhou,HGH,,,RIZ,,Xiamen Airlines,5928,MF5928
+2025-03-15,cancelled,Hangzhou,HGH,,,RIZ,,China Express Air,9551,G59551
+2025-03-15,cancelled,Hangzhou,HGH,,,RIZ,,Hainan Airlines,2993,HU2993
