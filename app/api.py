@@ -16,7 +16,7 @@ class FlightData(BaseModel):
     retard_arrivee: int
 
 # Chargement et Préparation des Données
-df = pd.read_csv("../vols_grand_dataset.csv")
+df = pd.read_csv("vols_grand_dataset.csv")
 
 # Nettoyage
 df_clean = df.dropna(subset=["Retard_Depart"]).copy()
