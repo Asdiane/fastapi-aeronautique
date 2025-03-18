@@ -1,0 +1,3 @@
+statut,retard_depart,retard_arrivee,anomaly_isolation_forest,anomaly_dbscan,anomaly_final
+0,0,123,-1,-1,-1
+0,200,5,-1,-1,-1
