@@ -96,7 +96,7 @@ streamlit run app.py
 
 Déploiement
 API FastAPI : Déployée sur Railway url=https://fastapi-aeronautique-production.up.railway.app/detect_anomaly/
-Interface Streamlit : Déployée sur Streamlit Cloud
+Interface Streamlit : Déployée sur Streamlit Cloud url=https://fastapi-aeronautique-adwsd8ck7sk5r7ptypnpgt.streamlit.app/
 
 📥 Données utilisées
 Fichier : vols_grand_dataset.csv
