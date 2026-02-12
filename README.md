@@ -1,27 +1,27 @@
 # fastapi-aeronautique
-# ✈️ Détection d'Anomalies dans des Données Aéronautiques
+# Détection d'Anomalies dans des Données Aéronautiques
 
 Ce projet détecte les **anomalies dans les vols aériens** à partir de données telles que les retards et le statut du vol. Il utilise **Machine Learning (Isolation Forest & DBSCAN)** et propose une interface web pour l’analyse.
 
 ---
 
-## 📦 Technologies utilisées
+## Technologies utilisées
 - **Backend** : FastAPI, Scikit-learn, Pandas, NumPy
 - **Frontend** : Streamlit, Requests, Matplotlib
 - **Déploiement** : Railway (API), Streamlit Cloud (Interface)
 
 ---
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 - Détection automatique d’anomalies sur les vols
 - Sauvegarde des anomalies détectées dans un fichier CSV
 - Visualisation des anomalies sous forme de graphiques
 - Téléchargement de l’historique
 
 
-## 📡 Backend - FastAPI (Détection d'anomalies)
+## Backend - FastAPI (Détection d'anomalies)
 
-### ▶️ Fonctionnement :
+### Fonctionnement :
 1. Charge les données de vols.
 2. Entraîne deux modèles ML :
    - Isolation Forest
@@ -56,7 +56,7 @@ POST /detect_anomaly/
 Reponse attendu
 
 
-📤 Variables retournées (JSON en sortie)
+Variables retournées (JSON en sortie)
 L’API retourne les mêmes données reçues, accompagnées de trois résultats de détection d’anomalies :
 
 anomaly_isolation_forest : un entier indiquant le résultat du modèle Isolation Forest :
@@ -98,12 +98,12 @@ Déploiement
 API FastAPI : Déployée sur Railway url=https://fastapi-aeronautique-production.up.railway.app/detect_anomaly/
 Interface Streamlit : Déployée sur Streamlit Cloud url=https://fastapi-aeronautique-adwsd8ck7sk5r7ptypnpgt.streamlit.app/
 
-📥 Données utilisées
+Données utilisées
 Fichier : vols_grand_dataset.csv
 Colonnes clés : Statut, Retard_Depart, Retard_Arrivee
 
 
-✨ Auteur
+Auteur
 Ahmed Sekou Diane
 
 
